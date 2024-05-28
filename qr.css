@@ -1,0 +1,26 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: white;
+}
+
+.qr-div{
+    margin: 100px auto;
+    width: 350px;
+    background-color: white;
+    padding: 60px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.title{
+    text-align: center;
+    color:red;
+    font-size: 90%;
+    font-weight: bold;
+
+}
